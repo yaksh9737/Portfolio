@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import live from "./live.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -21,14 +22,23 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
+
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import rnw from "./company/rnw.png";
+import swarrnim from "./company/swarrnim.png";
+import hsinfo from "./company/hsinfo.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import wisume from "./wisume.png";
+import hms from "./NuxHealth.png";
+import gamelo from "./gamelo.png";
+import sms from "./sms.png"
+import interviewAI from "./interviewAI.png"
 
 export {
   logo,
@@ -56,7 +66,16 @@ export {
   shopify,
   starbucks,
   tesla,
+  hsinfo,
   carrent,
   jobit,
   tripguide,
+  live,
+  rnw,
+  swarrnim,
+  wisume,
+  hms,
+  gamelo,
+  sms,
+  interviewAI
 };
