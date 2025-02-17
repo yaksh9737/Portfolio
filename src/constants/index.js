@@ -25,6 +25,7 @@ import {
   swarrnim,
   threejs,
   wisume,
+  invoices,
   hms,
   gamelo,
   sms,
@@ -364,6 +365,28 @@ const projects = [
     image: interviewAI,
     source_code_link: "https://interview-ai-frontend-0ogz.onrender.com/",
     type: "Live",
+  },
+  {
+    name: "Invoices",
+    description:
+      "Invoices this web-application helps user to get genrate there invoices and maintain customer detail.In this web -application user can make there company portfolio.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+    image: invoices,
+    source_code_link: "https://invoice-frountend-live.vercel.app/",
+    type: "Live",
   },
 ];
 

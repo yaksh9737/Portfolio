@@ -39,6 +39,7 @@ import hms from "./NuxHealth.png";
 import gamelo from "./gamelo.png";
 import sms from "./sms.png"
 import interviewAI from "./interviewAI.png"
+import invoices from "./invoices.png";
 
 export {
   logo,
@@ -74,6 +75,7 @@ export {
   rnw,
   swarrnim,
   wisume,
+  invoices,
   hms,
   gamelo,
   sms,
